@@ -1,2 +1,2 @@
-# souzatecnotuch
-Site para aprendizagem.
+# tecnotuchtuch
+Estudo de JavaScript.
